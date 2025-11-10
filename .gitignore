@@ -1,0 +1,12 @@
+/ks-kind-plugin
+/.kube-secrets
+/tmp
+/dev
+**/dev
+
+.vscode
+.devcontainer
+.idea
+.DS_Store
+.cache_ggshield
+*~
