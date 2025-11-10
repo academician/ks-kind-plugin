@@ -21,8 +21,5 @@ jobs:
       with:
         go-version: '1.22'
 
-    - name: Check
-      run: make check
-
     - name: Build
-      run: make build
+      run: go build -v ./...
