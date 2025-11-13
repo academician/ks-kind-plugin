@@ -1,6 +1,6 @@
 # Kubeswitch Kind Plugin
 
-This is a store plugin for [kubeswitch](/danielfoehrKn/kubeswitch) to get contexts for your local [kind](https://kind.sigs.k8s.io/) clusters.
+This is a store plugin for [kubeswitch](https://github.com/danielfoehrKn/kubeswitch) to get contexts for your local [kind](https://kind.sigs.k8s.io/) clusters.
 
 ## Usage
 
